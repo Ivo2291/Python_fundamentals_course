@@ -1,0 +1,13 @@
+number = int(input())
+
+if number == 86:
+    print("Not even for Wolf of Wall Street?!")
+
+elif number == 88:
+    print("Leo finally won the Oscar! Leo is happy")
+
+elif number == 87 or number < 86:
+    print("When will you give Leo an Oscar?")
+
+else:
+    print("Leo got one already!")
