@@ -1,3 +1,5 @@
+# Python_fundamentals_course
+
 COURSE CURRICULUM:
 
 1. Basic Syntax, Conditional Statements and Loops
